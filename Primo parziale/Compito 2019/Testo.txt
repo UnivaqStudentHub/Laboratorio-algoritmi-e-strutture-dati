@@ -1,0 +1,13 @@
+Esercizio 1.  Un’Assicurazione gestisce un archivio elettronico per raccogliere informazioni sulle automobili assicurate e sui loro proprietari. Implementare:
+•	una classe Cliente, avente (i) nominativo, (ii) codice fiscale e (iii) città di residenza come variabili d’istanza; 
+•	una classe Automobile avente come variabili d’istanza (i) la targa della vettura e (ii) un riferimento al proprietario della classe Cliente.
+Si implementi, infine, la classe Archivio come lista di automobili, fornendo almeno le seguenti funzionalità:
+1.	Creazione di un archivio inizialmente vuoto;
+2.	Inserimento nell’archivio attuale di una nuova automobile, dati la targa dell’automobile e un riferimento al proprietario della classe Cliente: se l’automobile è già presente in archivio si aggiorni l’informazione relativa al proprietario;
+3.	Cancellazione dall’archivio attuale di un’automobile, data la sua targa;
+4.	Creazione di un nuovo archivio contenente le automobili selezionate dall’archivio principale aventi il proprietario residente in una data città;
+5.	Ordinamento dell’archivio in modo lessicografico crescente rispetto alla targa delle automobili; 
+6.	Ordinamento dell’archivio in modo lessicografico crescente rispetto al codice fiscale dei proprietari;
+7.	Stampa su video dell’archivio attuale.
+
+Esercizio 2.  Scrivere un metodo generico statico che inverte (su posto) l’ordine degli elementi di un array generico (si consideri la dimensione logica coincidente con quella fisica).
