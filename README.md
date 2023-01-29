@@ -1,5 +1,5 @@
 # Cosa posso trovare?
-Troverete tutte le esercitazioni fatte durante il laboratorio di algoritmi suddivise per giorno di esercitazione.
+Troverete tutte le esercitazioni fatte durante il laboratorio di algoritmi suddivise per giorno di esercitazione. Inoltre è presente un file .zip contenente tutte le classi viste in classe utili per il secondo parziale
 
 # Regole per contribuire
 Se vuoi aggiungere un esercizio, mettilo all'interno della cartella corretta, ogni esercizio deve essere parte di 
