@@ -43,13 +43,13 @@ public class Università {
 
     //funzione 3
     public int etaMinima(){
-        int minEta = 0;
-        for (Docente d : docenti){
-            if(d.getEta() < minEta){
-                minEta = d.getEta();
+        int min = docenti.get(0).getEta();
+        for(Docente d : docenti){
+            if(d.getEta() < min){
+                min = d.getEta();
             }
         }
-        return minEta;
+        return min;
     }
 
     //funzione 4
